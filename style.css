@@ -24,3 +24,16 @@ one;
   text-decoration: none;
   color: black;
 }
+
+.dropdown {
+  position:relative;
+  display:inline-block;
+}
+
+.zoomimage {
+transition: 0.5s;
+}
+
+.zoomimage {
+  trasform: scale(1.2);
+}
